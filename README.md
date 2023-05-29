@@ -34,6 +34,12 @@ The above requirements follow the time of establishment of this project
 -   Reset Password Page
     ![Reset Password Page](docs/5.png)
 
+-   Verify Email Page
+    ![Verify Email Page](docs/8.png)
+
+-   Confirm Password Page
+    ![Confirm Password Page](docs/9.png)
+
 -   Dashboard Page
     ![Dashboard Page](docs/6.png)
 
